@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home {
+  background-image: url('../img/tutor.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 92vw;
+  text-align: center;
+  position: absolute;
+  font-family: 'Times New Roman', Times, serif;
+  background-position: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.cont {
+  margin-top: 15rem;
+}
+
+.main{
+  margin-top: 5rem;
+}
